@@ -5,7 +5,7 @@ ModelImporter:
   internalIDToNameTable:
   - first:
       74: -203655887218126122
-    second: mixamo.com
+    second: Hip Hop Dancing
   externalObjects:
   - first:
       type: UnityEngine:Material
@@ -26,42 +26,42 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Ch06_1001_Diffuse
-    second: {fileID: 2800000, guid: eb25c56bbbd2ae245a38e97cc1896ca3, type: 3}
+    second: {fileID: 2800000, guid: 67f265f9edb89a74481bf0e3fa8592a5, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Ch06_1001_Glossiness
-    second: {fileID: 2800000, guid: feecce047ccc11d438e9487cb1b1f924, type: 3}
+    second: {fileID: 2800000, guid: b9cf19898cdaf6d4796a8c954b427a99, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Ch06_1001_Normal
-    second: {fileID: 2800000, guid: 48f15010b3fadc947b90c9ec5bc11ea9, type: 3}
+    second: {fileID: 2800000, guid: fffdad08cb9f86344a226ebc24c0c34c, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Ch06_1001_Specular
-    second: {fileID: 2800000, guid: 16f11bafd5a89c74fa949cf4371b4231, type: 3}
+    second: {fileID: 2800000, guid: cfb27a865d162054f95be529ffca608f, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Ch06_1002_Diffuse
-    second: {fileID: 2800000, guid: b90421552ea605d43b35ba5014e466ae, type: 3}
+    second: {fileID: 2800000, guid: c2abc9bbc07aa044a8b96308e4672722, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Ch06_1002_Glossiness
-    second: {fileID: 2800000, guid: 0ade812dc377fa24cb7508547afe64a7, type: 3}
+    second: {fileID: 2800000, guid: 1aa97e1310c07074da513d71627d1244, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Ch06_1002_Normal
-    second: {fileID: 2800000, guid: 2d831085fd07ff94b864fb45870b01df, type: 3}
+    second: {fileID: 2800000, guid: e643f48fbe4e22a4c81f7f726e28a144, type: 3}
   - first:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: Ch06_1002_Specular
-    second: {fileID: 2800000, guid: e6cb12dbb63bf4a4f8970cba26bf5307, type: 3}
+    second: {fileID: 2800000, guid: 8ccde52e3e810c84bbc850cc1daa77e0, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
@@ -89,7 +89,36 @@ ModelImporter:
     animationWrapMode: 0
     extraExposedTransformPaths: []
     extraUserProperties: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Hip Hop Dancing
+      takeName: mixamo.com
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 460
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 1
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 0
   meshes:
     lODScreenPercentages: []
